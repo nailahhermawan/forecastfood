@@ -209,4 +209,5 @@ export default function AboutPage() {
     return <AppLayout>{content}</AppLayout>;
   }
   return <LandingLayout>{content}</LandingLayout>;
+  //ini super fix bgt
 }
